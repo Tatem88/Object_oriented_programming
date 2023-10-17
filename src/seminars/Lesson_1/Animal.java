@@ -1,4 +1,4 @@
-package seminars;
+package seminars.Lesson_1;
 
 public abstract class Animal {
     private String name;

@@ -1,7 +1,7 @@
-package seminars;
+package seminars.Lesson_1;
 
-import seminars.Cat;
-import seminars.Dog;
+import seminars.Lesson_1.Cat;
+import seminars.Lesson_1.Dog;
 
 public class Main {
     public static void main(String[] args) {

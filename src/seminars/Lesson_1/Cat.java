@@ -1,6 +1,6 @@
-package seminars;
+package seminars.Lesson_1;
 
-import seminars.Animal;
+import seminars.Lesson_1.Animal;
 
 public class Cat extends Animal {
     private String color;
